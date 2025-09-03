@@ -1,6 +1,7 @@
 # Monitoramento de Percepção Pública sobre IA no Piauí
 
-Este projeto foi desenvolvido como parte de um case acadêmico, com o objetivo de monitorar notícias relacionadas a um termo específico.  
+Este projeto foi desenvolvido como parte de um **desafio prático de desenvolvimento** com foco em **análise de dados e visualização interativa**. 
+O objetivo de monitorar notícias relacionadas a um termo específico.  
 A aplicação coleta informações a partir do **Google News RSS**, processa os textos, realiza uma análise de sentimento simples e apresenta os resultados em um painel interativo criado com **Streamlit**.
 
 
@@ -77,6 +78,7 @@ A aplicação coleta informações a partir do **Google News RSS**, processa os 
 ```bash
     streamlit run app.py
 ```
+
 
 ## Observações de transparência
 
