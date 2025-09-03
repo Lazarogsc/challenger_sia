@@ -47,8 +47,8 @@ A aplicação coleta informações a partir do **Google News RSS**, processa os 
 
 1. Clone o repositório:
 
-    git clone https://github.com/SEU_USUARIO/nome_do_repositorio.git
-    cd nome_do_repositorio
+    git clone https://github.com/Lazarogsc/challenger_sia
+    cd challenger_sia
 
 2. Crie e ative um ambiente virtual:
 
