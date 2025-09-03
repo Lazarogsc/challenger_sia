@@ -47,28 +47,38 @@ A aplicação coleta informações a partir do **Google News RSS**, processa os 
 
 1. Clone o repositório:
 
+```bash
     git clone https://github.com/Lazarogsc/challenger_sia
     cd challenger_sia
+```
 
 2. Crie e ative um ambiente virtual:
 
+```bash
     python -m venv venv
     source venv/bin/activate   # Linux/Mac
     venv\Scripts\activate      # Windows
+```
 
 3. Instale as dependências:
 
+```bash
     pip install -r requirements.txt
+```
 
 4. Copiar .env:
 
+```bash
     cp .env.example .env
+```
 
 5. Execute o Streamlit:
 
+```bash
     streamlit run app.py
+```
 
-## Observações de transparência ##
+## Observações de transparência
 
 A análise de sentimento utilizada é baseada em regras simples e pode não capturar sarcasmo ou contextos mais complexos.
 
